@@ -768,7 +768,7 @@
 
 // The size of the print bed
 #define X_BED_SIZE 160
-#define Y_BED_SIZE 120
+#define Y_BED_SIZE 150
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS 0
@@ -1307,7 +1307,7 @@
  *            https://github.com/olikraus/U8glib_Arduino
  */
 //#define ULTRA_LCD   // Character based
-#define DOGLCD      // Full graphics display
+//#define DOGLCD      // Full graphics display
 
 /**
  * SD CARD
