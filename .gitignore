@@ -1,4 +1,5 @@
 *
+!.gitignore
 !Configuration.h
 !Configuration_adv.h
 !pins_MINIRAMBO.h
